@@ -1,0 +1,210 @@
+Xsession: X session started for ajay at Mon Feb  1 08:01:34 IST 2021
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/ajay/.Xauthority
+localuser:ajay being added to access control list
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting USER=ajay
+dbus-update-activation-environment: setting LANGUAGE=en_IN:en
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting HOME=/home/ajay
+dbus-update-activation-environment: setting DESKTOP_SESSION=lightdm-xsession
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting QT_QPA_PLATFORMTHEME=gtk2
+dbus-update-activation-environment: setting LOGNAME=ajay
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting PATH=/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games
+dbus-update-activation-environment: setting GDM_LANG=en_IN.utf8
+dbus-update-activation-environment: setting _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting LANG=en_IN
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=lightdm-xsession
+dbus-update-activation-environment: setting XAUTHORITY=/home/ajay/.Xauthority
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm/data/ajay
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting GDMSESSION=lightdm-xsession
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/home/ajay
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share/:/usr/share/
+/usr/bin/x-session-manager: X server already running on display :0
+/home/ajay/Downloads was removed, reassigning DOWNLOAD to homedir
+xfce4-session-Message: 08:01:41.149: SSH authentication agent is already running
+gpg-agent[759]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent: a gpg-agent is already running - not starting a new one
+
+(xfce4-session:694): xfce4-session-WARNING **: 08:01:41.169: gpg-agent returned no PID in the variables
+
+(xfwm4:762): xfwm4-WARNING **: 08:01:43.230: Unsupported GL renderer (llvmpipe (LLVM 9.0, 128 bits)).
+
+(xfwm4:762): xfwm4-WARNING **: 08:01:43.231: Screen is missing required GL renderer, GL support disabled.
+
+(wrapper-2.0:912): Gtk-WARNING **: 08:01:55.540: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner GtkToggleButton)
+
+** (wrapper-2.0:930): WARNING **: 08:01:55.707: No outputs have backlight property
+
+(wrapper-2.0:929): GLib-GIO-CRITICAL **: 08:01:55.989: g_file_new_for_path: assertion 'path != NULL' failed
+
+(wrapper-2.0:929): GLib-GIO-CRITICAL **: 08:01:55.989: g_file_monitor_file: assertion 'G_IS_FILE (file)' failed
+
+(wrapper-2.0:929): GLib-GObject-WARNING **: 08:01:55.989: invalid (NULL) pointer instance
+
+(wrapper-2.0:929): GLib-GObject-CRITICAL **: 08:01:55.989: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(wrapper-2.0:929): Gtk-WARNING **: 08:01:55.989: Attempting to add a widget with type GtkToggleButton to a container of type XfcePanelPlugin, but the widget is already inside a container of type XfcePanelPlugin, please remove the widget from its existing container first.
+
+** (xiccd:881): WARNING **: 08:01:56.077: EDID is empty
+
+(wrapper-2.0:928): Gtk-WARNING **: 08:01:56.201: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner PulseaudioButton)
+
+(wrapper-2.0:929): Gtk-WARNING **: 08:01:56.219: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner GtkToggleButton)
+
+(wrapper-2.0:930): Gtk-WARNING **: 08:01:56.607: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner PowerManagerButton)
+Properties constructor called
+TRANSLATIONS_DIR: Loading translation file "qterminal_en_IN.qm" from dir /usr/share/qterminal/translations
+load success: false
+Canot open file "/home/ajay/.config/qterminal.org/qterminal_bookmarks.xml"
+Trying to load translation file from dir "/usr/share/xfce4"
+Trying to load translation file from dir "/usr/local/share/"
+Trying to load translation file from dir "/usr/share/"
+Trying to load translation file from dir "/usr/share"
+Trying to load translation file from dir "/usr/share/qtermwidget5/translations"
+default KB_LAYOUT_DIR:  "/usr/share/qtermwidget5/kb-layouts"
+loadAllColorSchemes
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Shell program: "/usr/share/kali-menu/exec-in-shell hashcat --help"
+("/usr/share/kali-menu/exec-in-shell", "hashcat", "--help")
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Properties destructor called
+Properties constructor called
+TRANSLATIONS_DIR: Loading translation file "qterminal_en_IN.qm" from dir /usr/share/qterminal/translations
+load success: false
+Canot open file "/home/ajay/.config/qterminal.org/qterminal_bookmarks.xml"
+Trying to load translation file from dir "/usr/share/xfce4"
+Trying to load translation file from dir "/usr/local/share/"
+Trying to load translation file from dir "/usr/share/"
+Trying to load translation file from dir "/usr/share"
+Trying to load translation file from dir "/usr/share/qtermwidget5/translations"
+default KB_LAYOUT_DIR:  "/usr/share/qtermwidget5/kb-layouts"
+loadAllColorSchemes
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Shell program: "/bin/bash"
+("/bin/bash")
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Properties constructor called
+TRANSLATIONS_DIR: Loading translation file "qterminal_en_IN.qm" from dir /usr/share/qterminal/translations
+load success: false
+Canot open file "/home/ajay/.config/qterminal.org/qterminal_bookmarks.xml"
+Trying to load translation file from dir "/usr/share/xfce4"
+Trying to load translation file from dir "/usr/local/share/"
+Trying to load translation file from dir "/usr/share/"
+Trying to load translation file from dir "/usr/share"
+Trying to load translation file from dir "/usr/share/qtermwidget5/translations"
+default KB_LAYOUT_DIR:  "/usr/share/qtermwidget5/kb-layouts"
+loadAllColorSchemes
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Shell program: "/bin/bash"
+("/bin/bash")
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Properties destructor called
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+Properties constructor called
+TRANSLATIONS_DIR: Loading translation file "qterminal_en_IN.qm" from dir /usr/share/qterminal/translations
+load success: false
+Canot open file "/home/ajay/.config/qterminal.org/qterminal_bookmarks.xml"
+Trying to load translation file from dir "/usr/share/xfce4"
+Trying to load translation file from dir "/usr/local/share/"
+Trying to load translation file from dir "/usr/share/"
+Trying to load translation file from dir "/usr/share"
+Trying to load translation file from dir "/usr/share/qtermwidget5/translations"
+default KB_LAYOUT_DIR:  "/usr/share/qtermwidget5/kb-layouts"
+loadAllColorSchemes
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Shell program: "/bin/bash"
+("/bin/bash")
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Properties destructor called
+
+(wrapper-2.0:912): Gdk-CRITICAL **: 10:02:31.066: Window 0x563ab28bd280 has not been made visible in GdkSeatGrabPrepareFunc
+Properties destructor called
+Undecodable sequence: \001b(hex)[22;0;0t
+Undecodable sequence: \001b(hex)[23;0;0t
+Undecodable sequence: \001b(hex)[22;0;0t
+Undecodable sequence: \001b(hex)[23;0;0t
+
+(exo-helper-2:17005): Gdk-CRITICAL **: 10:11:03.433: gdk_window_get_window_type: assertion 'GDK_IS_WINDOW (window)' failed
+Properties constructor called
+TRANSLATIONS_DIR: Loading translation file "qterminal_en_IN.qm" from dir /usr/share/qterminal/translations
+load success: false
+Canot open file "/home/ajay/.config/qterminal.org/qterminal_bookmarks.xml"
+Trying to load translation file from dir "/usr/share/xfce4"
+Trying to load translation file from dir "/usr/local/share/"
+Trying to load translation file from dir "/usr/share/"
+Trying to load translation file from dir "/usr/share"
+Trying to load translation file from dir "/usr/share/qtermwidget5/translations"
+default KB_LAYOUT_DIR:  "/usr/share/qtermwidget5/kb-layouts"
+loadAllColorSchemes
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Shell program: "/bin/bash"
+("/bin/bash")
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+libEGL warning: DRI2: failed to authenticate
+Properties destructor called
+Properties constructor called
+TRANSLATIONS_DIR: Loading translation file "qterminal_en_IN.qm" from dir /usr/share/qterminal/translations
+load success: false
+Canot open file "/home/ajay/.config/qterminal.org/qterminal_bookmarks.xml"
+Trying to load translation file from dir "/usr/share/xfce4"
+Trying to load translation file from dir "/usr/local/share/"
+Trying to load translation file from dir "/usr/share/"
+Trying to load translation file from dir "/usr/share"
+Trying to load translation file from dir "/usr/share/qtermwidget5/translations"
+default KB_LAYOUT_DIR:  "/usr/share/qtermwidget5/kb-layouts"
+loadAllColorSchemes
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Shell program: "/bin/bash"
+("/bin/bash")
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+libEGL warning: DRI2: failed to authenticate
+Sandbox: seccomp sandbox violation: pid 16194, tid 16194, syscall 332, args 26 140252801102590 4096 1 140728569601472 140252568348960.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFDEC669C10, 4096)
+Sandbox: seccomp sandbox violation: pid 16194, tid 16194, syscall 262, args 26 140252801102590 140728569601040 4096 4096 1.
+Sandbox: seccomp sandbox violation: pid 16194, tid 16194, syscall 332, args 26 140252801102590 4096 1 140728569601216 140252568348960.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFDEC669B10, 4096)
+Sandbox: seccomp sandbox violation: pid 16194, tid 16194, syscall 262, args 26 140252801102590 140728569600784 4096 4096 1.
+Sandbox: seccomp sandbox violation: pid 16194, tid 16194, syscall 315, args 16194 140252552944512 56 0 16 140252552944512.
+Sandbox: seccomp sandbox violation: pid 17342, tid 17342, syscall 315, args 17342 140688464755584 56 0 17 140688464755584.
+Sandbox: seccomp sandbox violation: pid 17342, tid 17342, syscall 332, args 27 140688710193918 4096 1 140728941512992 140688477156560.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFE02918770, 4096)
+Sandbox: seccomp sandbox violation: pid 17342, tid 17342, syscall 262, args 27 140688710193918 140728941512560 4096 4096 1.
+Sandbox: seccomp sandbox violation: pid 17342, tid 17342, syscall 332, args 27 140688710193918 4096 1 140728941512736 140688477156560.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFE02918670, 4096)
+Sandbox: seccomp sandbox violation: pid 17342, tid 17342, syscall 262, args 27 140688710193918 140728941512304 4096 4096 1.
+Sandbox: seccomp sandbox violation: pid 18488, tid 18488, syscall 315, args 18488 140328793758848 56 0 13 140328793758848.
+Sandbox: seccomp sandbox violation: pid 18488, tid 18488, syscall 332, args 27 140329038725886 4096 1 140724402092480 140328806143136.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFCF3FF7810, 4096)
+Sandbox: seccomp sandbox violation: pid 18488, tid 18488, syscall 262, args 27 140329038725886 140724402092048 4096 4096 1.
+Sandbox: seccomp sandbox violation: pid 18488, tid 18488, syscall 332, args 27 140329038725886 4096 1 140724402092224 140328806143136.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFCF3FF7710, 4096)
+Sandbox: seccomp sandbox violation: pid 18488, tid 18488, syscall 262, args 27 140329038725886 140724402091792 4096 4096 1.
+Properties destructor called

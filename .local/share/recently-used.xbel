@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/ajay/Downloads/10-million-password-list-top-1000000.txt" added="2021-01-31T17:48:29Z" modified="2021-01-31T17:48:30Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2021-01-31T17:48:30Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ajay/Desktop/instax/instax.sh" added="2021-02-02T04:29:37.848681Z" modified="2021-02-02T04:29:37.848709Z" visited="2021-02-02T04:29:37.848684Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="exo-helper-2" exec="&apos;exo-helper-2 %u&apos;" modified="2021-02-02T04:29:37.848694Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ajay/instax/passwords.lst" added="2021-02-02T04:32:10.469754Z" modified="2021-02-02T04:34:03.934550Z" visited="2021-02-02T04:32:10.469755Z">
+    <desc>Charset: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2021-02-02T04:34:03.934536Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ajay/instax/password.lst" added="2021-02-02T04:35:37.389732Z" modified="2021-02-02T04:35:37.389750Z" visited="2021-02-02T04:35:37.389734Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2021-02-02T04:35:37.389741Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ajay/instax/pasword.lst" added="2021-02-02T04:35:57.392398Z" modified="2021-02-02T04:35:57.392437Z" visited="2021-02-02T04:35:57.392402Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2021-02-02T04:35:57.392416Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ajay/instax/insta.txt" added="2021-02-02T04:36:13.573556Z" modified="2021-02-02T04:36:13.573591Z" visited="2021-02-02T04:36:13.573560Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2021-02-02T04:36:13.573572Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ajay/instax/j" added="2021-02-02T04:36:35.414800Z" modified="2021-02-02T04:36:35.414845Z" visited="2021-02-02T04:36:35.414804Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2021-02-02T04:36:35.414821Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ajay/Desktop/indian-wordlist/indian-passwords" added="2021-02-02T04:37:29.977529Z" modified="2021-02-02T04:37:29.977539Z" visited="2021-02-02T04:37:29.977530Z">
+    <desc>Charset: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2021-02-02T04:37:29.977535Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/cdrom1/setup.exe" added="2021-02-02T04:39:56.927925Z" modified="2021-02-02T04:39:57.079019Z" visited="2021-02-02T04:39:56.927926Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ms-dos-executable"/>
+        <bookmark:applications>
+          <bookmark:application name="Engrampa" exec="&apos;engrampa&apos;" modified="2021-02-02T04:39:57.079014Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ajay/ajay" added="2021-02-02T16:42:23.490194Z" modified="2021-02-02T16:42:23.490205Z" visited="2021-02-02T16:42:23.490195Z">
+    <desc>Charset: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2021-02-02T16:42:23.490201Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

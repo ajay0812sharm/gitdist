@@ -1,0 +1,5 @@
+# HSTS 1.0 Known Hosts database for GNU Wget.
+# Edit at your own risk.
+# <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
+deb.torproject.org	0	0	1612153905	15768000
+packagecloud.io	0	0	1612155042	31536000

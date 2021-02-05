@@ -1,0 +1,225 @@
+Xsession: X session started for ajay at Sun Jan 31 22:55:13 IST 2021
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/ajay/.Xauthority
+localuser:ajay being added to access control list
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting USER=ajay
+dbus-update-activation-environment: setting LANGUAGE=en_IN:en
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting HOME=/home/ajay
+dbus-update-activation-environment: setting DESKTOP_SESSION=lightdm-xsession
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting QT_QPA_PLATFORMTHEME=gtk2
+dbus-update-activation-environment: setting LOGNAME=ajay
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting PATH=/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games
+dbus-update-activation-environment: setting GDM_LANG=en_IN.utf8
+dbus-update-activation-environment: setting _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting LANG=en_IN
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=lightdm-xsession
+dbus-update-activation-environment: setting XAUTHORITY=/home/ajay/.Xauthority
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm/data/ajay
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting GDMSESSION=lightdm-xsession
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/home/ajay
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share/:/usr/share/
+/usr/bin/x-session-manager: X server already running on display :0
+xfce4-session-Message: 22:55:15.029: SSH authentication agent is already running
+gpg-agent[753]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent: a gpg-agent is already running - not starting a new one
+
+(xfce4-session:688): xfce4-session-WARNING **: 22:55:15.048: gpg-agent returned no PID in the variables
+
+(xfwm4:756): xfwm4-WARNING **: 22:55:16.547: Unsupported GL renderer (llvmpipe (LLVM 9.0, 128 bits)).
+
+(xfwm4:756): xfwm4-WARNING **: 22:55:16.548: Screen is missing required GL renderer, GL support disabled.
+
+** (xiccd:870): WARNING **: 22:55:21.373: EDID is empty
+
+(wrapper-2.0:875): Gtk-WARNING **: 22:55:21.515: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner GtkToggleButton)
+
+(wrapper-2.0:912): GLib-GIO-CRITICAL **: 22:55:21.950: g_file_new_for_path: assertion 'path != NULL' failed
+
+(wrapper-2.0:912): GLib-GIO-CRITICAL **: 22:55:21.951: g_file_monitor_file: assertion 'G_IS_FILE (file)' failed
+
+(wrapper-2.0:912): GLib-GObject-WARNING **: 22:55:21.951: invalid (NULL) pointer instance
+
+(wrapper-2.0:912): GLib-GObject-CRITICAL **: 22:55:21.951: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(wrapper-2.0:912): Gtk-WARNING **: 22:55:21.951: Attempting to add a widget with type GtkToggleButton to a container of type XfcePanelPlugin, but the widget is already inside a container of type XfcePanelPlugin, please remove the widget from its existing container first.
+
+** (wrapper-2.0:913): WARNING **: 22:55:21.999: No outputs have backlight property
+
+(wrapper-2.0:912): Gtk-WARNING **: 22:55:22.234: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner GtkToggleButton)
+
+(wrapper-2.0:911): Gtk-WARNING **: 22:55:22.343: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner PulseaudioButton)
+
+(wrapper-2.0:913): Gtk-WARNING **: 22:55:22.520: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner PowerManagerButton)
+Properties constructor called
+TRANSLATIONS_DIR: Loading translation file "qterminal_en_IN.qm" from dir /usr/share/qterminal/translations
+load success: false
+Canot open file "/home/ajay/.config/qterminal.org/qterminal_bookmarks.xml"
+Trying to load translation file from dir "/usr/share/xfce4"
+Trying to load translation file from dir "/usr/local/share/"
+Trying to load translation file from dir "/usr/share/"
+Trying to load translation file from dir "/usr/share"
+Trying to load translation file from dir "/usr/share/qtermwidget5/translations"
+default KB_LAYOUT_DIR:  "/usr/share/qtermwidget5/kb-layouts"
+loadAllColorSchemes
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Shell program: "/bin/bash"
+("/bin/bash")
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Properties constructor called
+TRANSLATIONS_DIR: Loading translation file "qterminal_en_IN.qm" from dir /usr/share/qterminal/translations
+load success: false
+Canot open file "/home/ajay/.config/qterminal.org/qterminal_bookmarks.xml"
+Trying to load translation file from dir "/usr/share/xfce4"
+Trying to load translation file from dir "/usr/local/share/"
+Trying to load translation file from dir "/usr/share/"
+Trying to load translation file from dir "/usr/share"
+Trying to load translation file from dir "/usr/share/qtermwidget5/translations"
+default KB_LAYOUT_DIR:  "/usr/share/qtermwidget5/kb-layouts"
+loadAllColorSchemes
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Shell program: "/usr/share/kali-menu/exec-in-shell cd /usr/share/wordlists && ls -l"
+("/usr/share/kali-menu/exec-in-shell", "cd", "/usr/share/wordlists", "&&", "ls", "-l")
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Properties destructor called
+TerminalDisplay: handling urls. It can be broken. Report any errors, please
+TerminalDisplay: handling urls. It can be broken. Report any errors, please
+Properties destructor called
+Properties constructor called
+TRANSLATIONS_DIR: Loading translation file "qterminal_en_IN.qm" from dir /usr/share/qterminal/translations
+load success: false
+Canot open file "/home/ajay/.config/qterminal.org/qterminal_bookmarks.xml"
+Trying to load translation file from dir "/usr/share/xfce4"
+Trying to load translation file from dir "/usr/local/share/"
+Trying to load translation file from dir "/usr/share/"
+Trying to load translation file from dir "/usr/share"
+Trying to load translation file from dir "/usr/share/qtermwidget5/translations"
+default KB_LAYOUT_DIR:  "/usr/share/qtermwidget5/kb-layouts"
+loadAllColorSchemes
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Shell program: "/bin/bash"
+("/bin/bash")
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+TerminalDisplay: handling urls. It can be broken. Report any errors, please
+Properties destructor called
+Undecodable sequence: \001b(hex)[1;77m
+Undecodable sequence: \001b(hex)[1;77m
+Undecodable sequence: \001b(hex)[1;77m
+Undecodable sequence: \001b(hex)[1;80m
+Undecodable sequence: \001b(hex)[1;77m
+Undecodable sequence: \001b(hex)[1;77m
+Undecodable sequence: \001b(hex)[1;50m
+Undecodable sequence: \001b(hex)[1;77m
+Undecodable sequence: \001b(hex)[1;77m
+Undecodable sequence: \001b(hex)[1;77m
+Undecodable sequence: \001b(hex)[1;80m
+Undecodable sequence: \001b(hex)[1;77m
+Undecodable sequence: \001b(hex)[1;77m
+Undecodable sequence: \001b(hex)[1;50m
+Properties constructor called
+TRANSLATIONS_DIR: Loading translation file "qterminal_en_IN.qm" from dir /usr/share/qterminal/translations
+load success: false
+Canot open file "/home/ajay/.config/qterminal.org/qterminal_bookmarks.xml"
+Trying to load translation file from dir "/usr/share/xfce4"
+Trying to load translation file from dir "/usr/local/share/"
+Trying to load translation file from dir "/usr/share/"
+Trying to load translation file from dir "/usr/share"
+Trying to load translation file from dir "/usr/share/qtermwidget5/translations"
+default KB_LAYOUT_DIR:  "/usr/share/qtermwidget5/kb-layouts"
+loadAllColorSchemes
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Shell program: "/bin/bash"
+("/bin/bash")
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Properties destructor called
+Properties constructor called
+TRANSLATIONS_DIR: Loading translation file "qterminal_en_IN.qm" from dir /usr/share/qterminal/translations
+load success: false
+Canot open file "/home/ajay/.config/qterminal.org/qterminal_bookmarks.xml"
+Trying to load translation file from dir "/usr/share/xfce4"
+Trying to load translation file from dir "/usr/local/share/"
+Trying to load translation file from dir "/usr/share/"
+Trying to load translation file from dir "/usr/share"
+Trying to load translation file from dir "/usr/share/qtermwidget5/translations"
+default KB_LAYOUT_DIR:  "/usr/share/qtermwidget5/kb-layouts"
+loadAllColorSchemes
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Shell program: "/bin/bash"
+("/bin/bash")
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Properties destructor called
+Properties constructor called
+TRANSLATIONS_DIR: Loading translation file "qterminal_en_IN.qm" from dir /usr/share/qterminal/translations
+load success: false
+Canot open file "/home/ajay/.config/qterminal.org/qterminal_bookmarks.xml"
+Trying to load translation file from dir "/usr/share/xfce4"
+Trying to load translation file from dir "/usr/local/share/"
+Trying to load translation file from dir "/usr/share/"
+Trying to load translation file from dir "/usr/share"
+Trying to load translation file from dir "/usr/share/qtermwidget5/translations"
+default KB_LAYOUT_DIR:  "/usr/share/qtermwidget5/kb-layouts"
+loadAllColorSchemes
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Shell program: "/bin/bash"
+("/bin/bash")
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Properties destructor called
+Properties constructor called
+TRANSLATIONS_DIR: Loading translation file "qterminal_en_IN.qm" from dir /usr/share/qterminal/translations
+load success: false
+Canot open file "/home/ajay/.config/qterminal.org/qterminal_bookmarks.xml"
+Trying to load translation file from dir "/usr/share/xfce4"
+Trying to load translation file from dir "/usr/local/share/"
+Trying to load translation file from dir "/usr/share/"
+Trying to load translation file from dir "/usr/share"
+Trying to load translation file from dir "/usr/share/qtermwidget5/translations"
+default KB_LAYOUT_DIR:  "/usr/share/qtermwidget5/kb-layouts"
+loadAllColorSchemes
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Shell program: "/bin/bash"
+("/bin/bash")
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Properties destructor called
+Properties constructor called
+TRANSLATIONS_DIR: Loading translation file "qterminal_en_IN.qm" from dir /usr/share/qterminal/translations
+load success: false
+Canot open file "/home/ajay/.config/qterminal.org/qterminal_bookmarks.xml"
+Trying to load translation file from dir "/usr/share/xfce4"
+Trying to load translation file from dir "/usr/local/share/"
+Trying to load translation file from dir "/usr/share/"
+Trying to load translation file from dir "/usr/share"
+Trying to load translation file from dir "/usr/share/qtermwidget5/translations"
+default KB_LAYOUT_DIR:  "/usr/share/qtermwidget5/kb-layouts"
+loadAllColorSchemes
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Shell program: "/bin/bash"
+("/bin/bash")
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Properties destructor called
+Properties constructor called
+TRANSLATIONS_DIR: Loading translation file "qterminal_en_IN.qm" from dir /usr/share/qterminal/translations
+load success: false
+Canot open file "/home/ajay/.config/qterminal.org/qterminal_bookmarks.xml"
+Trying to load translation file from dir "/usr/share/xfce4"
+Trying to load translation file from dir "/usr/local/share/"
+Trying to load translation file from dir "/usr/share/"
+Trying to load translation file from dir "/usr/share"
+Trying to load translation file from dir "/usr/share/qtermwidget5/translations"
+default KB_LAYOUT_DIR:  "/usr/share/qtermwidget5/kb-layouts"
+loadAllColorSchemes
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Shell program: "/bin/bash"
+("/bin/bash")
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+                             
