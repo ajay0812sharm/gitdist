@@ -1,5 +1,5 @@
 favorites=exo-terminal-emulator.desktop,exo-file-manager.desktop,xfce-text-editor.desktop,exo-web-browser.desktop,kali-www.desktop,kali-docs.desktop,kali-bugs.desktop,offsec-training.desktop,exploit-database.desktop,vulnhub.desktop
-recent=kali-undercover.desktop,exo-file-manager.desktop,exo-web-browser.desktop,kali-wordlists.desktop,xfce4-notes.desktop,xfce-text-editor.desktop
+recent=kali-undercover.desktop,exo-web-browser.desktop,exo-file-manager.desktop,kali-wordlists.desktop,xfce4-notes.desktop,xfce-text-editor.desktop
 button-title=Applications
 button-icon=kali-panel-menu
 button-single-row=false

@@ -3,5 +3,5 @@
 # ibus session bus with the below address.
 # If the IBUS_ADDRESS environment variable is set, it will
 # be used rather than this file.
-IBUS_ADDRESS=unix:abstract=/home/ajay/.cache/ibus/dbus-50rKlsnE,guid=a45add479d484689911bbdf26019531a
-IBUS_DAEMON_PID=1036
+IBUS_ADDRESS=unix:abstract=/home/ajay/.cache/ibus/dbus-HuRsrj3f,guid=f684dfb514fffb849072dcbf6024fcf6
+IBUS_DAEMON_PID=1028

@@ -1,67 +1,132 @@
-Xsession: X session started for ajay at Sun Jan 31 22:55:13 IST 2021
+Xsession: X session started for ajay at Thursday 11 February 2021 12:54:11 PM IST
 dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
 dbus-update-activation-environment: setting DISPLAY=:0
 dbus-update-activation-environment: setting XAUTHORITY=/home/ajay/.Xauthority
 localuser:ajay being added to access control list
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
 dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
 dbus-update-activation-environment: setting USER=ajay
 dbus-update-activation-environment: setting LANGUAGE=en_IN:en
 dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
 dbus-update-activation-environment: setting HOME=/home/ajay
-dbus-update-activation-environment: setting DESKTOP_SESSION=lightdm-xsession
+dbus-update-activation-environment: setting DESKTOP_SESSION=xfce
 dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
 dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
 dbus-update-activation-environment: setting QT_QPA_PLATFORMTHEME=gtk2
 dbus-update-activation-environment: setting LOGNAME=ajay
+dbus-update-activation-environment: setting GTK_IM_MODULE=ibus
 dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
-dbus-update-activation-environment: setting PATH=/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games
-dbus-update-activation-environment: setting GDM_LANG=en_IN.utf8
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/local/games:/usr/games
 dbus-update-activation-environment: setting _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true
-dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session3
 dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
 dbus-update-activation-environment: setting DISPLAY=:0
 dbus-update-activation-environment: setting LANG=en_IN
-dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=lightdm-xsession
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=XFCE
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=xfce
 dbus-update-activation-environment: setting XAUTHORITY=/home/ajay/.Xauthority
+dbus-update-activation-environment: setting XMODIFIERS=@im=ibus
 dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm/data/ajay
 dbus-update-activation-environment: setting SHELL=/bin/bash
-dbus-update-activation-environment: setting GDMSESSION=lightdm-xsession
+dbus-update-activation-environment: setting GDMSESSION=xfce
 dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
 dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting QT_IM_MODULE=ibus
 dbus-update-activation-environment: setting PWD=/home/ajay
 dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share/:/usr/share/
-/usr/bin/x-session-manager: X server already running on display :0
-xfce4-session-Message: 22:55:15.029: SSH authentication agent is already running
-gpg-agent[753]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+dbus-update-activation-environment: setting CLUTTER_IM_MODULE=ibus
+/usr/bin/startxfce4: X server already running on display :0
+xfce4-session-Message: 12:54:12.157: SSH authentication agent is already running
+gpg-agent[3230]: WARNING: "--write-env-file" is an obsolete option - it has no effect
 gpg-agent: a gpg-agent is already running - not starting a new one
 
-(xfce4-session:688): xfce4-session-WARNING **: 22:55:15.048: gpg-agent returned no PID in the variables
+(xfce4-session:3098): xfce4-session-WARNING **: 12:54:12.175: gpg-agent returned no PID in the variables
 
-(xfwm4:756): xfwm4-WARNING **: 22:55:16.547: Unsupported GL renderer (llvmpipe (LLVM 9.0, 128 bits)).
+(xfwm4:3232): xfwm4-WARNING **: 12:54:13.110: Unsupported GL renderer (llvmpipe (LLVM 9.0, 128 bits)).
 
-(xfwm4:756): xfwm4-WARNING **: 22:55:16.548: Screen is missing required GL renderer, GL support disabled.
+(xfwm4:3232): xfwm4-WARNING **: 12:54:13.110: Screen is missing required GL renderer, GL support disabled.
 
-** (xiccd:870): WARNING **: 22:55:21.373: EDID is empty
+(xfce4-session:3098): GLib-WARNING **: 12:54:14.116: GChildWatchSource: Exit status of a child process was requested but ECHILD was received by waitpid(). See the documentation of g_child_watch_source_new() for possible causes.
 
-(wrapper-2.0:875): Gtk-WARNING **: 22:55:21.515: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner GtkToggleButton)
+(xfce4-session:3098): xfce4-session-WARNING **: 12:54:15.384: Unable to launch "/usr/share/kali-defaults/setup-noautomount" (specified by autostart/kali-noautomount.desktop): Failed to execute child process “/usr/share/kali-defaults/setup-noautomount” (No such file or directory)
+Tracker-Message: 12:54:15.546: Set scheduler policy to SCHED_IDLE
 
-(wrapper-2.0:912): GLib-GIO-CRITICAL **: 22:55:21.950: g_file_new_for_path: assertion 'path != NULL' failed
+** (xiccd:3330): WARNING **: 12:54:15.596: EDID is empty
+Tracker-Message: 12:54:15.702: Set scheduler policy to SCHED_IDLE
+Tracker-Message: 12:54:15.954: Setting priority nice level to 19
+Tracker-Message: 12:54:15.998: Setting priority nice level to 19
 
-(wrapper-2.0:912): GLib-GIO-CRITICAL **: 22:55:21.951: g_file_monitor_file: assertion 'G_IS_FILE (file)' failed
+** (wrapper-2.0:3317): WARNING **: 12:54:16.654: No outputs have backlight property
 
-(wrapper-2.0:912): GLib-GObject-WARNING **: 22:55:21.951: invalid (NULL) pointer instance
+(wrapper-2.0:3314): GLib-GIO-CRITICAL **: 12:54:16.780: g_file_new_for_path: assertion 'path != NULL' failed
 
-(wrapper-2.0:912): GLib-GObject-CRITICAL **: 22:55:21.951: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+(wrapper-2.0:3314): GLib-GIO-CRITICAL **: 12:54:16.780: g_file_monitor_file: assertion 'G_IS_FILE (file)' failed
 
-(wrapper-2.0:912): Gtk-WARNING **: 22:55:21.951: Attempting to add a widget with type GtkToggleButton to a container of type XfcePanelPlugin, but the widget is already inside a container of type XfcePanelPlugin, please remove the widget from its existing container first.
+(wrapper-2.0:3314): GLib-GObject-WARNING **: 12:54:16.780: invalid (NULL) pointer instance
 
-** (wrapper-2.0:913): WARNING **: 22:55:21.999: No outputs have backlight property
+(wrapper-2.0:3314): GLib-GObject-CRITICAL **: 12:54:16.780: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
 
-(wrapper-2.0:912): Gtk-WARNING **: 22:55:22.234: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner GtkToggleButton)
+(wrapper-2.0:3314): Gtk-WARNING **: 12:54:16.781: Attempting to add a widget with type GtkToggleButton to a container of type XfcePanelPlugin, but the widget is already inside a container of type XfcePanelPlugin, please remove the widget from its existing container first.
 
-(wrapper-2.0:911): Gtk-WARNING **: 22:55:22.343: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner PulseaudioButton)
+(wrapper-2.0:3314): Gtk-WARNING **: 12:54:17.013: Negative content width -3 (allocation 1, extents 2x2) while allocating gadget (node button, owner GtkToggleButton)
 
-(wrapper-2.0:913): Gtk-WARNING **: 22:55:22.520: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner PowerManagerButton)
+(wrapper-2.0:3313): Gtk-WARNING **: 12:54:17.120: Negative content width -3 (allocation 1, extents 2x2) while allocating gadget (node button, owner PulseaudioButton)
+
+(wrapper-2.0:3310): Gtk-WARNING **: 12:54:17.193: Negative content width -3 (allocation 1, extents 2x2) while allocating gadget (node button, owner GtkToggleButton)
+
+(wrapper-2.0:3317): Gtk-WARNING **: 12:54:17.600: Negative content width -3 (allocation 1, extents 2x2) while allocating gadget (node button, owner PowerManagerButton)
+
+(nm-applet:3318): Gdk-CRITICAL **: 12:54:17.690: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+Properties constructor called
+Properties constructor called
+Properties constructor called
+TRANSLATIONS_DIR: Loading translation file "qterminal_en_IN.qm" from dir /usr/share/qterminal/translations
+load success: false
+TRANSLATIONS_DIR: Loading translation file "qterminal_en_IN.qm" from dir /usr/share/qterminal/translations
+load success: false
+TRANSLATIONS_DIR: Loading translation file "qterminal_en_IN.qm" from dir /usr/share/qterminal/translations
+load success: false
+Canot open file "/home/ajay/.config/qterminal.org/qterminal_bookmarks.xml"
+Canot open file "/home/ajay/.config/qterminal.org/qterminal_bookmarks.xml"
+Canot open file "/home/ajay/.config/qterminal.org/qterminal_bookmarks.xml"
+Trying to load translation file from dir "/usr/share/xfce4"
+Trying to load translation file from dir "/usr/share/xfce4"
+Trying to load translation file from dir "/usr/local/share/"
+Trying to load translation file from dir "/usr/local/share/"
+Trying to load translation file from dir "/usr/share/"
+Trying to load translation file from dir "/usr/share/"
+Trying to load translation file from dir "/usr/share"
+Trying to load translation file from dir "/usr/share"
+Trying to load translation file from dir "/usr/share/qtermwidget5/translations"
+Trying to load translation file from dir "/usr/share/qtermwidget5/translations"
+Trying to load translation file from dir "/usr/share/xfce4"
+Trying to load translation file from dir "/usr/local/share/"
+Trying to load translation file from dir "/usr/share/"
+Trying to load translation file from dir "/usr/share"
+Trying to load translation file from dir "/usr/share/qtermwidget5/translations"
+default KB_LAYOUT_DIR:  "/usr/share/qtermwidget5/kb-layouts"
+default KB_LAYOUT_DIR:  "/usr/share/qtermwidget5/kb-layouts"
+default KB_LAYOUT_DIR:  "/usr/share/qtermwidget5/kb-layouts"
+loadAllColorSchemes
+loadAllColorSchemes
+loadAllColorSchemes
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Shell program: "/bin/bash"
+("/bin/bash")
+Shell program: "/bin/bash"
+("/bin/bash")
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Shell program: "/bin/bash"
+("/bin/bash")
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+libEGL warning: DRI2: failed to authenticate
+libEGL warning: DRI2: failed to authenticate
+libEGL warning: DRI2: failed to authenticate
 Properties constructor called
 TRANSLATIONS_DIR: Loading translation file "qterminal_en_IN.qm" from dir /usr/share/qterminal/translations
 load success: false
@@ -77,25 +142,234 @@ Using a variable-width font in the terminal.  This may cause performance degrada
 Shell program: "/bin/bash"
 ("/bin/bash")
 Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
-Properties constructor called
-TRANSLATIONS_DIR: Loading translation file "qterminal_en_IN.qm" from dir /usr/share/qterminal/translations
-load success: false
-Canot open file "/home/ajay/.config/qterminal.org/qterminal_bookmarks.xml"
-Trying to load translation file from dir "/usr/share/xfce4"
-Trying to load translation file from dir "/usr/local/share/"
-Trying to load translation file from dir "/usr/share/"
-Trying to load translation file from dir "/usr/share"
-Trying to load translation file from dir "/usr/share/qtermwidget5/translations"
-default KB_LAYOUT_DIR:  "/usr/share/qtermwidget5/kb-layouts"
-loadAllColorSchemes
-Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
-Shell program: "/usr/share/kali-menu/exec-in-shell cd /usr/share/wordlists && ls -l"
-("/usr/share/kali-menu/exec-in-shell", "cd", "/usr/share/wordlists", "&&", "ls", "-l")
-Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+libEGL warning: DRI2: failed to authenticate
 Properties destructor called
-TerminalDisplay: handling urls. It can be broken. Report any errors, please
-TerminalDisplay: handling urls. It can be broken. Report any errors, please
 Properties destructor called
+Properties destructor called
+xfce4-panel-Message: 12:56:28.123: Not a valid position defined: (null)
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:28.861: The property '/general/activate_action' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:28.863: The property '/general/borderless_maximize' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:28.866: The property '/general/box_move' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:28.867: The property '/general/box_resize' is not supported
+
+(xfsettingsd:3248): GLib-GObject-CRITICAL **: 12:56:28.871: g_value_get_string: assertion 'G_VALUE_HOLDS_STRING (value)' failed
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:28.873: The property '/general/button_layout' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:28.878: The property '/general/button_offset' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:28.891: The property '/general/button_spacing' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:28.891: The property '/general/click_to_focus' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:28.892: The property '/general/cycle_apps_only' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:28.892: The property '/general/cycle_draw_frame' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:28.892: The property '/general/cycle_hidden' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:28.892: The property '/general/cycle_raise' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:28.892: The property '/general/cycle_minimum' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:28.892: The property '/general/cycle_preview' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:28.892: The property '/general/cycle_tabwin_mode' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:28.892: The property '/general/cycle_workspaces' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:28.892: The property '/general/double_click_action' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:28.892: The property '/general/double_click_distance' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:28.947: The property '/general/double_click_time' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:28.947: The property '/general/easy_click' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:28.947: The property '/general/focus_delay' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:28.947: The property '/general/focus_hint' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:28.947: The property '/general/focus_new' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:28.947: The property '/general/frame_border_top' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:28.947: The property '/general/frame_opacity' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:28.947: The property '/general/full_width_title' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:28.948: The property '/general/horiz_scroll_opacity' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:28.948: The property '/general/inactive_opacity' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:28.948: The property '/general/maximized_offset' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:28.948: The property '/general/mousewheel_rollup' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:28.948: The property '/general/move_opacity' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:28.948: The property '/general/placement_mode' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:28.948: The property '/general/placement_ratio' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:28.948: The property '/general/popup_opacity' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:28.948: The property '/general/prevent_focus_stealing' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:28.948: The property '/general/raise_delay' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:28.948: The property '/general/raise_on_click' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:28.948: The property '/general/raise_on_focus' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:28.949: The property '/general/raise_with_any_button' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:28.949: The property '/general/repeat_urgent_blink' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:28.949: The property '/general/resize_opacity' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:28.949: The property '/general/scroll_workspaces' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:28.949: The property '/general/shadow_delta_height' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:28.949: The property '/general/shadow_delta_width' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:28.949: The property '/general/shadow_delta_x' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:28.949: The property '/general/shadow_delta_y' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:28.965: The property '/general/shadow_opacity' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:28.965: The property '/general/show_app_icon' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:28.966: The property '/general/show_dock_shadow' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:28.966: The property '/general/show_frame_shadow' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:28.966: The property '/general/show_popup_shadow' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:28.966: The property '/general/snap_resist' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:28.966: The property '/general/snap_to_border' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:28.968: The property '/general/snap_to_windows' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:28.972: The property '/general/snap_width' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:28.975: The property '/general/theme' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:28.983: The property '/general/tile_on_move' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:29.001: The property '/general/title_alignment' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:29.003: The property '/general/title_font' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:29.006: The property '/general/title_horizontal_offset' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:29.011: The property '/general/title_shadow_active' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:29.014: The property '/general/title_shadow_inactive' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:29.017: The property '/general/title_vertical_offset_active' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:29.019: The property '/general/vblank_mode' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:29.022: The property '/general/title_vertical_offset_inactive' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:29.026: The property '/general/titleless_maximize' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:29.028: The property '/general/toggle_workspaces' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:29.031: The property '/general/unredirect_overlays' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:29.033: The property '/general/urgent_blink' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:29.036: The property '/general/use_compositing' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:29.038: The property '/general/workspace_count' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:29.044: The property '/general/wrap_cycle' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:29.047: The property '/general/wrap_layout' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:29.057: The property '/general/wrap_resistance' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:29.059: The property '/general/wrap_windows' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:29.062: The property '/general/wrap_workspaces' is not supported
+
+(xfwm4:3232): xfwm4-WARNING **: 12:56:29.068: The property '/general/zoom_desktop' is not supported
+xfce4-panel: Restarting...
+
+
+(xfce4-panel:3299): GLib-WARNING **: 12:56:29.334: GChildWatchSource: Exit status of a child process was requested but ECHILD was received by waitpid(). See the documentation of g_child_watch_source_new() for possible causes.
+
+(xfce4-panel:3299): GLib-WARNING **: 12:56:29.334: GChildWatchSource: Exit status of a child process was requested but ECHILD was received by waitpid(). See the documentation of g_child_watch_source_new() for possible causes.
+corrupted size vs. prev_size
+
+(xfce4-session:3098): Gtk-WARNING **: 12:56:29.660: Theme parsing error: gtk.css:2794:15: Not using units is deprecated. Assuming 'px'.
+
+(nm-applet:3318): Gtk-WARNING **: 12:56:29.673: Theme parsing error: gtk.css:2794:15: Not using units is deprecated. Assuming 'px'.
+
+(evolution-alarm-notify:3321): Gtk-WARNING **: 12:56:29.680: Theme parsing error: gtk.css:2794:15: Not using units is deprecated. Assuming 'px'.
+
+(Thunar:3305): Gtk-WARNING **: 12:56:29.694: Theme parsing error: gtk.css:2794:15: Not using units is deprecated. Assuming 'px'.
+cat: /proc/3310/comm: No such file or directory
+/usr/bin/kali-undercover: 69: [: =: unexpected operator
+
+(polkit-gnome-authentication-agent-1:3334): Gtk-WARNING **: 12:56:29.820: Theme parsing error: gtk.css:2794:15: Not using units is deprecated. Assuming 'px'.
+
+(xfsettingsd:3632): Gtk-WARNING **: 12:56:30.043: Theme parsing error: gtk.css:2794:15: Not using units is deprecated. Assuming 'px'.
+
+(xfwm4:3641): Gtk-WARNING **: 12:56:30.082: Theme parsing error: gtk.css:2794:15: Not using units is deprecated. Assuming 'px'.
+
+(xfsettingsd:3632): Gtk-WARNING **: 12:56:30.136: Theme parsing error: gtk.css:2794:15: Not using units is deprecated. Assuming 'px'.
+
+(xfce4-panel:3640): Gtk-WARNING **: 12:56:30.300: Theme parsing error: gtk.css:2794:15: Not using units is deprecated. Assuming 'px'.
+
+(xfce4-panel:3640): Gtk-CRITICAL **: 12:56:30.761: gtk_icon_theme_load_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:3659): Gtk-WARNING **: 12:56:30.931: Theme parsing error: gtk.css:2794:15: Not using units is deprecated. Assuming 'px'.
+
+(wrapper-2.0:3661): Gtk-WARNING **: 12:56:30.974: Theme parsing error: gtk.css:2794:15: Not using units is deprecated. Assuming 'px'.
+
+(wrapper-2.0:3664): Gtk-WARNING **: 12:56:31.005: Theme parsing error: gtk.css:2794:15: Not using units is deprecated. Assuming 'px'.
+
+(wrapper-2.0:3660): Gtk-WARNING **: 12:56:31.058: Theme parsing error: gtk.css:2794:15: Not using units is deprecated. Assuming 'px'.
+
+(wrapper-2.0:3662): Gtk-WARNING **: 12:56:31.079: Theme parsing error: gtk.css:2794:15: Not using units is deprecated. Assuming 'px'.
+
+** (wrapper-2.0:3661): WARNING **: 12:56:31.142: No outputs have backlight property
+
+(wrapper-2.0:3664): GLib-GIO-CRITICAL **: 12:56:31.154: g_file_new_for_path: assertion 'path != NULL' failed
+
+(wrapper-2.0:3664): GLib-GIO-CRITICAL **: 12:56:31.157: g_file_monitor_file: assertion 'G_IS_FILE (file)' failed
+
+(wrapper-2.0:3664): GLib-GObject-WARNING **: 12:56:31.157: invalid (NULL) pointer instance
+
+(wrapper-2.0:3664): GLib-GObject-CRITICAL **: 12:56:31.157: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(wrapper-2.0:3664): Gtk-WARNING **: 12:56:31.157: Attempting to add a widget with type GtkToggleButton to a container of type XfcePanelPlugin, but the widget is already inside a container of type XfcePanelPlugin, please remove the widget from its existing container first.
+
+(wrapper-2.0:3660): xfconf-WARNING **: 12:56:31.374: Failed to set property "xfce4-panel::/plugins/plugin-11/names-ordered": Operation was cancelled
+
+(xfwm4:3641): xfwm4-WARNING **: 12:56:32.272: Another compositing manager is running on screen 0
+
+(xfce4-panel:3640): Gtk-CRITICAL **: 12:56:32.517: gtk_icon_theme_load_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:3659): Gtk-WARNING **: 12:56:32.583: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner GtkToggleButton)
+
+(wrapper-2.0:3662): Gtk-WARNING **: 12:56:32.591: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner PulseaudioButton)
+
+(wrapper-2.0:3661): Gtk-WARNING **: 12:56:32.638: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner PowerManagerButton)
+
+(wrapper-2.0:3664): Gtk-WARNING **: 12:56:32.640: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner GtkToggleButton)
+
+(xfce4-panel:3640): Gtk-CRITICAL **: 12:56:32.738: gtk_icon_theme_load_icon: assertion 'icon_name != NULL' failed
 Properties constructor called
 TRANSLATIONS_DIR: Loading translation file "qterminal_en_IN.qm" from dir /usr/share/qterminal/translations
 load success: false
@@ -111,115 +385,5 @@ Using a variable-width font in the terminal.  This may cause performance degrada
 Shell program: "/bin/bash"
 ("/bin/bash")
 Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
-TerminalDisplay: handling urls. It can be broken. Report any errors, please
+libEGL warning: DRI2: failed to authenticate
 Properties destructor called
-Undecodable sequence: \001b(hex)[1;77m
-Undecodable sequence: \001b(hex)[1;77m
-Undecodable sequence: \001b(hex)[1;77m
-Undecodable sequence: \001b(hex)[1;80m
-Undecodable sequence: \001b(hex)[1;77m
-Undecodable sequence: \001b(hex)[1;77m
-Undecodable sequence: \001b(hex)[1;50m
-Undecodable sequence: \001b(hex)[1;77m
-Undecodable sequence: \001b(hex)[1;77m
-Undecodable sequence: \001b(hex)[1;77m
-Undecodable sequence: \001b(hex)[1;80m
-Undecodable sequence: \001b(hex)[1;77m
-Undecodable sequence: \001b(hex)[1;77m
-Undecodable sequence: \001b(hex)[1;50m
-Properties constructor called
-TRANSLATIONS_DIR: Loading translation file "qterminal_en_IN.qm" from dir /usr/share/qterminal/translations
-load success: false
-Canot open file "/home/ajay/.config/qterminal.org/qterminal_bookmarks.xml"
-Trying to load translation file from dir "/usr/share/xfce4"
-Trying to load translation file from dir "/usr/local/share/"
-Trying to load translation file from dir "/usr/share/"
-Trying to load translation file from dir "/usr/share"
-Trying to load translation file from dir "/usr/share/qtermwidget5/translations"
-default KB_LAYOUT_DIR:  "/usr/share/qtermwidget5/kb-layouts"
-loadAllColorSchemes
-Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
-Shell program: "/bin/bash"
-("/bin/bash")
-Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
-Properties destructor called
-Properties constructor called
-TRANSLATIONS_DIR: Loading translation file "qterminal_en_IN.qm" from dir /usr/share/qterminal/translations
-load success: false
-Canot open file "/home/ajay/.config/qterminal.org/qterminal_bookmarks.xml"
-Trying to load translation file from dir "/usr/share/xfce4"
-Trying to load translation file from dir "/usr/local/share/"
-Trying to load translation file from dir "/usr/share/"
-Trying to load translation file from dir "/usr/share"
-Trying to load translation file from dir "/usr/share/qtermwidget5/translations"
-default KB_LAYOUT_DIR:  "/usr/share/qtermwidget5/kb-layouts"
-loadAllColorSchemes
-Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
-Shell program: "/bin/bash"
-("/bin/bash")
-Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
-Properties destructor called
-Properties constructor called
-TRANSLATIONS_DIR: Loading translation file "qterminal_en_IN.qm" from dir /usr/share/qterminal/translations
-load success: false
-Canot open file "/home/ajay/.config/qterminal.org/qterminal_bookmarks.xml"
-Trying to load translation file from dir "/usr/share/xfce4"
-Trying to load translation file from dir "/usr/local/share/"
-Trying to load translation file from dir "/usr/share/"
-Trying to load translation file from dir "/usr/share"
-Trying to load translation file from dir "/usr/share/qtermwidget5/translations"
-default KB_LAYOUT_DIR:  "/usr/share/qtermwidget5/kb-layouts"
-loadAllColorSchemes
-Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
-Shell program: "/bin/bash"
-("/bin/bash")
-Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
-Properties destructor called
-Properties constructor called
-TRANSLATIONS_DIR: Loading translation file "qterminal_en_IN.qm" from dir /usr/share/qterminal/translations
-load success: false
-Canot open file "/home/ajay/.config/qterminal.org/qterminal_bookmarks.xml"
-Trying to load translation file from dir "/usr/share/xfce4"
-Trying to load translation file from dir "/usr/local/share/"
-Trying to load translation file from dir "/usr/share/"
-Trying to load translation file from dir "/usr/share"
-Trying to load translation file from dir "/usr/share/qtermwidget5/translations"
-default KB_LAYOUT_DIR:  "/usr/share/qtermwidget5/kb-layouts"
-loadAllColorSchemes
-Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
-Shell program: "/bin/bash"
-("/bin/bash")
-Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
-Properties destructor called
-Properties constructor called
-TRANSLATIONS_DIR: Loading translation file "qterminal_en_IN.qm" from dir /usr/share/qterminal/translations
-load success: false
-Canot open file "/home/ajay/.config/qterminal.org/qterminal_bookmarks.xml"
-Trying to load translation file from dir "/usr/share/xfce4"
-Trying to load translation file from dir "/usr/local/share/"
-Trying to load translation file from dir "/usr/share/"
-Trying to load translation file from dir "/usr/share"
-Trying to load translation file from dir "/usr/share/qtermwidget5/translations"
-default KB_LAYOUT_DIR:  "/usr/share/qtermwidget5/kb-layouts"
-loadAllColorSchemes
-Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
-Shell program: "/bin/bash"
-("/bin/bash")
-Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
-Properties destructor called
-Properties constructor called
-TRANSLATIONS_DIR: Loading translation file "qterminal_en_IN.qm" from dir /usr/share/qterminal/translations
-load success: false
-Canot open file "/home/ajay/.config/qterminal.org/qterminal_bookmarks.xml"
-Trying to load translation file from dir "/usr/share/xfce4"
-Trying to load translation file from dir "/usr/local/share/"
-Trying to load translation file from dir "/usr/share/"
-Trying to load translation file from dir "/usr/share"
-Trying to load translation file from dir "/usr/share/qtermwidget5/translations"
-default KB_LAYOUT_DIR:  "/usr/share/qtermwidget5/kb-layouts"
-loadAllColorSchemes
-Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
-Shell program: "/bin/bash"
-("/bin/bash")
-Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
-                             

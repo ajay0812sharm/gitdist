@@ -37,9 +37,8 @@
     </property>
     <property name="plugin-11" type="string" value="systray">
       <property name="names-ordered" type="array">
-        <value type="string" value="thunar"/>
-        <value type="string" value="networkmanager applet"/>
         <value type="string" value="ibus panel"/>
+        <value type="string" value="networkmanager applet"/>
         <value type="string" value="miniaplicación gestor de la red"/>
       </property>
       <property name="show-frame" type="bool" value="false"/>
